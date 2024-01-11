@@ -1,0 +1,54 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "firstName": "Kristin",
+        "lastName": "Smith",
+        "occupation": "Teacher",
+        "reviewCount": "6",
+        "reviewScore": "5",
+        "likesKids": true,
+        "personality": ["friendly person", "kind"]
+      },
+      {
+        "id": "2",
+        "firstName": "Olivia",
+        "lastName": "Parker",
+        "occupation": "Teacher",
+        "reviewCount": "11",
+        "reviewScore": "5",
+        "likesKids": true,
+        "personality": ["friendly", "kind"]
+      },
+      {
+        "id": "3",
+        "firstName": "Jimmy",
+        "lastName": "Robinson",
+        "occupation": "Teacher",
+        "reviewCount": "9",
+        "reviewScore": "4",
+        "likesKids": false,
+        "personality": ["mean", "smart"]
+      },
+      {
+        "id": "4",
+        "firstName": "Zack",
+        "lastName": "Carter",
+        "occupation": "Teacher",
+        "reviewCount": "4",
+        "reviewScore": "5",
+        "likesKids": true,
+        "personality": ["kind"]
+      },
+      {
+        "id": "5",
+        "firstName": "Brad",
+        "lastName": "Rayburn",
+        "occupation": "Teacher",
+        "reviewCount": "2",
+        "reviewScore": "4",
+        "likesKids": true,
+        "personality": ["friendly", "kind"]
+      }
+    ]
+  }
